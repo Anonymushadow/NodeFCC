@@ -1,0 +1,11 @@
+_para correr node solo escribimos en la terminal (en la ubicacion del archivo js)
+	node nombreDelJS
+_para cancelar algo escribimos en la terminal CTRL + C 2 veces
+_cada archivo en node es un modulo
+_los modulos funcionan como una variable local, lo que esta dentro de este solo se puede acceder desde este mismo al menos que lo exporte pero exportas lo que vos queres
+
+_con npm version vemos la version de npm
+_con npm install nombreDelPaquete --save  instalamos un paquete
+_con npm install -g nombreDelPaquete --save  instalamos un paquete que se puede usar en cualquier proyecto
+
+_para crear el package.json ponemos npm init o npm init y (la y significa que se guarda como defecto, no hace falta contestar las preguntas)
